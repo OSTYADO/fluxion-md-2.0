@@ -15,7 +15,7 @@
       "stop": "pm2 stop Suhail",
       "dbs--postinstall": "npx puppeteer@latest install --y"
    },
-   "  "author": " OSTYADO",
+   "  "author" : "OSTYADO",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "latest",
